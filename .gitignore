@@ -1,0 +1,34 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+
+# Large or derived analysis products
+*.mat
+*.doc
+*.docx
+*.nii
+*.nii.gz
+*.img
+*.hdr
+*.csv
+*.png
+*.tif
+*.tiff
+*.fig
+*.pdf
+
+# Local data and outputs
+data/
+derivatives/
+outputs/
+results/
+BMC_output/
+manuscripts/
+legacy/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
